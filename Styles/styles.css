@@ -898,21 +898,22 @@ img {
 }
 
 #randomizer_prize h1 {
+    display: inline-block;
     color: #000000;
     text-align: center;
     font-size: 32px;
     line-height: calc(32 / 26 * 100%);
     text-align: center;
-    margin-bottom: 40px;
+    margin: 10px 5px 40px 5px;
 }
 
 #randomizer_prize p {
+    display: inline-block;
     font-size: 14px;
     line-height: calc(22.97 / 14 * 100%);
     color: #5F5D5D;
     text-align: center;
-    margin-bottom: 80px;
-    margin-top: 0;
+    margin: 0 5px 80px 5px;
 }
 
 
